@@ -1,0 +1,9 @@
+/* Template Name: Starty - Multipurpose HTML5 Tamplate
+   File Description: For Restaurant Demo
+*/
+
+body,
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
+#topnav {
+    font-family: "Noto Sans", sans-serif;
+}
